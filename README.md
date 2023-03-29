@@ -1,11 +1,11 @@
-# Media Mixer
+# Mixe
 
-Welcome to the official issue-only repo for Media Mixer. Media Mixer is a desktop app that allows you to contol active media sessions in Windows 10 (e.g. Edge, Chrome, Spotify). It primarily uses WPF and UWP (as XAML Islands).
+Welcome to the official issue-only repo for Mixe. Mixe has been built with the Windows App SDK and .NET 7. The app allows you to contol active media sessions in Windows 10 and Windows 11 (media sessions from apps like Edge, Chrome, Spotify and so on).
 
 <a href="https://www.microsoft.com/store/apps/9NBXBP78896Q">
-<img src="https://store-images.s-microsoft.com/image/apps.46295.13579431939247977.c67e3bb8-0124-4514-9453-8ba0932f217d.b73ef0fd-7f3c-4262-a1ce-d10a5abd77dc" width=80/><img src="https://github.com/michalleptuch/michalleptuch/blob/main/images/get.png?raw=true" height=80 /></a>
+<img src="images/StoreTile.png" width=80/><img src="https://github.com/michalleptuch/michalleptuch/blob/main/images/get.png?raw=true" height=80 /></a>
 <br><br>
 
-![](images/MediaMixerHero.png)
+![](images/Screenshot.png)
 
 Feel free to share ideas about new features or report bugs.
